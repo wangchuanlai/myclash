@@ -186,6 +186,12 @@ DOMAIN-SUFFIX,youtubekids.com
 DOMAIN-SUFFIX,youtubemobilesupport.com
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,xvideos.com
+DOMAIN-SUFFIX,xvideos-cdn.com
+DOMAIN-SUFFIX,javhdporn.net
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,microsoft.com
 DOMAIN-KEYWORD,youtube
 DOMAIN,music.youtube.com
 IP-CIDR,172.110.32.0/21,no-resolve
