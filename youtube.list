@@ -197,6 +197,7 @@ DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-KEYWORD,youtube
 DOMAIN-SUFFIX,sider.ai
+DOMAIN-SUFFIX,cloudflare.com
 DOMAIN,music.youtube.com
 IP-CIDR,172.110.32.0/21,no-resolve
 IP-CIDR,216.73.80.0/20,no-resolve
